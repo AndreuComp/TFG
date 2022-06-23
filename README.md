@@ -12,6 +12,8 @@ FICHEROS CSV:
 - df_amenities.csv: Contiene la transformación de la variable "amenities" a variables binarias.
 - df_final.csv: Contiene el data frame después de su tratamiento.
 - df_modelo.csv: Contiene el data frame con las transformaciones en variables respuesta y eliminacion de variables no útiles para el modelo.
+- X_y1.csv: Contiene el data frame con las variables empleadas para el modelo de la variable respuesta "booking_score". 
+- X_y2.csv: Contiene el data frame con las variables empleadas para el modelo de la variable respuesta "review_score". 
 
 CODIGO EMPLEADO:
 
